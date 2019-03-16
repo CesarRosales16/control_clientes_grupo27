@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">control_clientes_grupo27</string>
+    <string name="text_entran">Entran</string>
+    <string name="text_salen">Salen</string>
+    <string name="text_buttons">ADD</string>
+    <string name="initial_count_entran">0</string>
+    <string name="initial_count_salen">0</string>
+    <string name="text_btn">ADD</string>
+</resources>
